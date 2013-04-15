@@ -1,0 +1,20 @@
+syslinux-themes-linuxmint (1.0.0) olivia; urgency=low
+
+  * Initial release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 05 Mar 2013 15:10:23 +0100
+
+syslinux-themes-ubuntu (2) precise; urgency=low
+
+  * Add chain.c32 symlink to ubuntu-oneiric/isolinux-live theme.
+  * Add new syslinux-themes-ubuntu-precise package.  Switch
+    syslinux-themes-ubuntu dependency to it.
+  * Only build for amd64 and i386 architectures.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 07 Nov 2011 12:29:37 +0000
+
+syslinux-themes-ubuntu (1) oneiric; urgency=low
+
+  * Initial release, based in part on syslinux-themes-debian 9-1.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 Aug 2011 18:56:58 +0100
