@@ -1,3 +1,9 @@
+syslinux-themes-linuxmint (1.0.1) petra; urgency=low
+
+  * Initial release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 17 Sep 2013 09:53:00 +0100
+ 
 syslinux-themes-linuxmint (1.0.0) olivia; urgency=low
 
   * Initial release
